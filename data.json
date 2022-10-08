@@ -1,0 +1,906 @@
+[
+  {
+    "url": "https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514220/",
+    "review": "",
+    "quote": "If you’re not willing to do a wholesale, 24/7, 100 percent swap with who that person is, then there is no point in being jealous.",
+    "rating": null,
+    "priority": 8,
+    "title": "The Almanack of Naval Ravikant"
+  },
+  {
+    "url": "https://www.amazon.com/Psychology-Money-hardback-Timeless-happiness/dp/0857199099/",
+    "review": "",
+    "quote": "Money’s greatest intrinsic value—and this can’t be overstated—is its ability to give you control over your time.",
+    "rating": null,
+    "priority": 8,
+    "title": "The Psychology of Money"
+  },
+  {
+    "url": "https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107/",
+    "review": "",
+    "quote": "To be effective engineers, we need to be able to identify which activities produce more impact with smaller time investments. Not all work is created equal. Not all efforts, however well-intentioned, translate into impact.",
+    "rating": null,
+    "priority": 8,
+    "title": "The Effective Engineer"
+  },
+  {
+    "url": "https://www.amazon.com/Sum-Forty-Afterlives-David-Eagleman/dp/0307377342/",
+    "review": "",
+    "quote": "There are three deaths. The first is when the body ceases to function. The second is when the body is consigned to the grave. The third is that moment, sometime in the future, when your name is spoken for the last time.",
+    "rating": null,
+    "priority": null,
+    "title": "Sum: Forty Tales from the Afterlives"
+  },
+  {
+    "url": "https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/",
+    "review": "",
+    "quote": "History has shown that governments will inevitably succumb to the temptation of inflating the money supply.",
+    "rating": null,
+    "priority": 8,
+    "title": "The Bitcoin Standard: The Decentralized Alternative to Central Banking"
+  },
+  {
+    "url": "https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488/",
+    "review": "",
+    "quote": "Girard discovered that we come to desire many things not through biological drives or pure reason, nor as a decree of our illusory and sovereign self, but through imitation.",
+    "rating": null,
+    "priority": 8,
+    "title": "Wanting: The Power of Mimetic Desire in Everyday Life"
+  },
+  {
+    "url": "https://www.amazon.com/Changing-World-Order-Nations-Succeed/dp/1982160276/",
+    "review": "",
+    "quote": "No system of government, no economic system, no currency, and no empire lasts forever, yet almost everyone is surprised and ruined when they fail.",
+    "rating": null,
+    "priority": 8,
+    "title": "Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail"
+  },
+  {
+    "url": "https://www.amazon.com/Recursion-Novel-Blake-Crouch/dp/1524759783",
+    "review": "",
+    "quote": "Life with a cheat code isn't life. Our existence isn't something to be engineered or optimized for the avoidance of pain. That's what it is to be human - the beauty and the pain, each meaningless without the other.",
+    "rating": null,
+    "priority": null,
+    "title": "Recursion"
+  },
+  {
+    "url": "https://www.amazon.com/Dark-Matter-Novel-Blake-Crouch/dp/1101904224",
+    "review": "",
+    "quote": "No one tells you it's all about to change, to be taken away. There's no proximity alert, no indication that you're standing on the precipice. And maybe that's what makes tragedy so tragic. Not just what happens, but ",
+    "rating": null,
+    "priority": null,
+    "title": "Dark Matter"
+  },
+  {
+    "url": "https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202",
+    "review": "",
+    "quote": "We’re as smart as evolution made us. So we’re the minimum intelligence needed to ensure we can dominate our planets.",
+    "rating": null,
+    "priority": null,
+    "title": "Project Hail Mary"
+  },
+  {
+    "url": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/",
+    "review": "",
+    "quote": "Money’s greatest intrinsic value—and this can’t be overstated—is its ability to give you control over your time.",
+    "rating": null,
+    "priority": null,
+    "title": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness"
+  },
+  {
+    "url": "https://www.amazon.com/Sum-Forty-Afterlives-David-Eagleman/dp/0307389936/",
+    "review": "",
+    "quote": "There are three deaths. The first is when the body ceases to function. The second is when the body is consigned to the grave. The third is that moment, sometime in the future, when your name is spoken for the last time",
+    "rating": null,
+    "priority": null,
+    "title": "Sum: Forty Tales from the Afterlives"
+  },
+  {
+    "url": "https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/",
+    "review": "",
+    "quote": "History has shown that governments will inevitably succumb to the temptation of inflating the money supply.",
+    "rating": null,
+    "priority": 8,
+    "title": "The Bitcoin Standard"
+  },
+  {
+    "url": "https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/073521610X/",
+    "review": "",
+    "quote": "Because everything that begins must end. What causes us to suffer is not in the past or the future: it is here, now, in our memory, in our expectations. We long for timelessness, we endure the passing of time: we suffer time. Time is suffering.",
+    "rating": null,
+    "priority": 8,
+    "title": "The Order of Time"
+  },
+  {
+    "url": "https://www.amazon.com/Ringworld-Novel-Larry-Niven/dp/0345333926",
+    "review": "",
+    "quote": "Humans,\" said the puppeteer, \"should not be allowed to run loose. You will surely harm yourselves.",
+    "rating": null,
+    "priority": null,
+    "title": "Ringworld"
+  },
+  {
+    "url": "https://www.amazon.com/Altered-Carbon-Takeshi-Kovacs-Richard/dp/0345457684",
+    "review": "",
+    "quote": "The human eye is a wonderful device. With a little effort, it can fail to see even the most glaring injustice.",
+    "rating": null,
+    "priority": null,
+    "title": "Altered Carbon"
+  },
+  {
+    "url": "https://www.amazon.com/Dark-Tower-I-Gunslinger/dp/1501161806",
+    "review": "",
+    "quote": "The greatest mystery the universe offers is not life but size.",
+    "rating": null,
+    "priority": null,
+    "title": "The Dark Tower"
+  },
+  {
+    "url": "https://www.amazon.com/Lord-Flies-William-Golding/dp/0399501487",
+    "review": "",
+    "quote": "Maybe there is a beast… maybe it's only us.",
+    "rating": null,
+    "priority": null,
+    "title": "Lord of the Flies"
+  },
+  {
+    "url": "https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416",
+    "review": "",
+    "quote": "And, when you want something, all the universe conspires in helping you to achieve it.",
+    "rating": null,
+    "priority": null,
+    "title": "The Alchemist"
+  },
+  {
+    "url": "https://www.amazon.com/Picture-Dorian-Gray-Chiltern-Classic/dp/1912714744/",
+    "review": "",
+    "quote": "Because you have the most marvelous youth, and youth is the only thing worth having.",
+    "rating": null,
+    "priority": null,
+    "title": "The Picture of Dorian Gray"
+  },
+  {
+    "url": "https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006",
+    "review": "",
+    "quote": "In science if you know what you are doing you should not be doing it.\nIn engineering if you do not know what you are doing you should not be doing it.",
+    "rating": null,
+    "priority": null,
+    "title": "Art of Doing Science and Engineering: Learning to Learn"
+  },
+  {
+    "url": "https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553293354",
+    "review": "",
+    "quote": "Violence is the last refuge of the incompetent.",
+    "rating": null,
+    "priority": null,
+    "title": "Foundation"
+  },
+  {
+    "url": "https://www.amazon.com/Lord-Light-Roger-Zelazny/dp/0060567236/",
+    "review": "",
+    "quote": "His followers called him Mahasamatman and said he was a god. He preferred to drop the Maha- and the -atman, however, and called himself Sam. He never claimed to be a god, but then he never claimed not to be a god.",
+    "rating": null,
+    "priority": null,
+    "title": "Lord of Light"
+  },
+  {
+    "url": "https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717",
+    "review": "",
+    "quote": "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.",
+    "rating": null,
+    "priority": null,
+    "title": "Dune"
+  },
+  {
+    "url": "https://www.amazon.com/Psychopath-Test-Journey-Through-Industry/dp/1594485755",
+    "review": "",
+    "quote": "I wondered if sometimes the difference between a psychopath in Broadmoor and a psychopath on Wall Street was the luck of being born into a stable, rich family.",
+    "rating": null,
+    "priority": null,
+    "title": "The Psychopath Test"
+  },
+  {
+    "url": "https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248",
+    "review": "",
+    "quote": "People are willing to work free, and they are willing to work for a reasonable wage; but offer them just a small payment and they will walk away.",
+    "rating": null,
+    "priority": null,
+    "title": "Predictably Irrational"
+  },
+  {
+    "url": "https://www.amazon.com/Novel-Stephen-King/dp/1501142976",
+    "review": "",
+    "quote": "It was easier to be brave when you were someone else.",
+    "rating": null,
+    "priority": null,
+    "title": "It"
+  },
+  {
+    "url": "https://www.amazon.com/Its-Raining-Brazil-Buy-Starbucks/dp/0071433198/",
+    "review": "",
+    "quote": "",
+    "rating": null,
+    "priority": null,
+    "title": "If It's Raining in Brazil, Buy Starbucks"
+  },
+  {
+    "url": "https://www.amazon.com/Fight-Club-Novel-Chuck-Palahniuk/dp/0393327345",
+    "review": "",
+    "quote": "It's only after we've lost everything that we're free to do anything.",
+    "rating": null,
+    "priority": null,
+    "title": "Fight Club"
+  },
+  {
+    "url": "https://www.amazon.com/Learn-JavaScript-p5-js-Coding-Learners/dp/1484234251",
+    "review": "",
+    "quote": "",
+    "rating": null,
+    "priority": null,
+    "title": "Coding for Visual Learners"
+  },
+  {
+    "url": "https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021",
+    "review": "",
+    "quote": "If you’re not failing, you’re not pushing your limits, and if you’re not pushing your limits, you’re not maximizing your potential.",
+    "rating": null,
+    "priority": null,
+    "title": "Principles"
+  },
+  {
+    "url": "https://www.amazon.com/Neatest-Little-Guide-Market-Investing/dp/0452298628",
+    "review": "",
+    "quote": "Be fearful when others are greedy, and be greedy when others are fearful.",
+    "rating": null,
+    "priority": null,
+    "title": "The Neatest Little Guide to Stock Market Investing: 2013 Edition"
+  },
+  {
+    "url": "https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514220/",
+    "review": "",
+    "quote": "Happiness is the state when nothing is missing. When nothing is missing, your mind shuts down and stops running into the past or future to regret something or to plan something.",
+    "rating": null,
+    "priority": null,
+    "title": "The Almanack of Naval Ravikant"
+  },
+  {
+    "url": "https://www.amazon.com/Super-Thinking-Book-Mental-Models/dp/0525533583",
+    "review": "",
+    "quote": "High-stakes testing culture—be it for school examinations, job interviews, or professional licensing—creates perverse incentives to “teach to the test,” or worse, cheat.",
+    "rating": null,
+    "priority": null,
+    "title": "Super Thinking"
+  },
+  {
+    "url": "https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/",
+    "review": "",
+    "quote": "So it is with statistics; no amount of fancy analysis can make up for fundamentally flawed data. Hence the expression “garbage in, garbage out.",
+    "rating": null,
+    "priority": null,
+    "title": "Naked Statistics: Stripping the Dread from the Data"
+  },
+  {
+    "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380/",
+    "review": "",
+    "quote": "It is not hard to make money in the market. What is hard to avoid is the alluring temptation to throw your money away on short, get-rich-quick speculative binges. It is an obvious lesson, but one frequently ignored.",
+    "rating": 4,
+    "priority": 10,
+    "title": "A Random Walk Down Wall Street"
+  },
+  {
+    "url": "https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master-dp-020161622X/dp/020161622X/",
+    "review": "",
+    "quote": "The greatest of all weaknesses is the fear of appearing weak.",
+    "rating": null,
+    "priority": 13,
+    "title": "The Pragmatic Programmer"
+  },
+  {
+    "url": "https://www.amazon.com/Nine-Algorithms-That-Changed-Future/dp/0691209065/",
+    "review": "",
+    "quote": "Beauty is the first test: there is no permanent place in the world for ugly mathematics.",
+    "rating": null,
+    "priority": null,
+    "title": "Nine Algorithms that Changed the Future"
+  },
+  {
+    "url": "https://www.amazon.com/Accidental-Genius-Revolutionize-Thinking-Through/dp/1605095257/",
+    "review": "",
+    "quote": "",
+    "rating": 3,
+    "priority": null,
+    "title": "Accidental Genius"
+  },
+  {
+    "url": "https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/",
+    "review": "",
+    "quote": "If you don't pay appropriate attention to what has your attention, it will take more of your attention than it deserves.",
+    "rating": null,
+    "priority": 10,
+    "title": "Getting Things Done"
+  },
+  {
+    "url": "https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922/",
+    "review": "",
+    "quote": "Once a musician has enough ability to get into a top music school, the thing that distinguishes one performer from another is how hard he or she works. That's it. And what's more, the people at the very top don't work just harder or even much harder than everyone else. They work much, much harder.",
+    "rating": null,
+    "priority": null,
+    "title": "Outliers"
+  },
+  {
+    "url": "https://www.amazon.com/Naked-Economics-Undressing-Dismal-Science/dp/0393356493/",
+    "review": "",
+    "quote": "Why did the chicken cross the road? Because it maximized his utility.",
+    "rating": null,
+    "priority": null,
+    "title": "Naked Economics"
+  },
+  {
+    "url": "https://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624/",
+    "review": "",
+    "quote": "The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire.",
+    "rating": 4,
+    "priority": null,
+    "title": "The Tipping Point"
+  },
+  {
+    "url": "https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/",
+    "review": "",
+    "quote": "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.",
+    "rating": null,
+    "priority": 10,
+    "title": "How to Win Friends and Influence People"
+  },
+  {
+    "url": "https://www.amazon.com/Predictioneers-Game-Brazen-Self-Interest-Future-dp-081297977X/dp/081297977X/",
+    "review": "",
+    "quote": "The difference between doing a good job and doing a lousy job is driven by how many people a leader has to keep happy.",
+    "rating": 3,
+    "priority": null,
+    "title": "The Predictioneer's Game"
+  },
+  {
+    "url": "https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/",
+    "review": "",
+    "quote": "Good design is actually a lot harder to notice than poor design, in part because good designs fit our needs so well that the design is invisible.",
+    "rating": null,
+    "priority": null,
+    "title": "The Design of Everyday Things"
+  },
+  {
+    "url": "https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/",
+    "review": "",
+    "quote": "We are quick to forget that just being alive is an extraordinary piece of good luck, a remote event, a chance occurrence of monstrous proportions.",
+    "rating": 4,
+    "priority": null,
+    "title": "The Black Swan"
+  },
+  {
+    "url": "https://www.amazon.com/Next-100-Years-Forecast-Century/dp/0767923057/",
+    "review": "",
+    "quote": "The computer focuses ruthlessly on things that can be represented in numbers. In so doing, it seduces people into thinking that other aspects of knowledge are either unreal or unimportant. The computer treats reason as an instrument for achieving things, not for contemplating things. It narrows dramatically what we know and intended by reason.",
+    "rating": null,
+    "priority": null,
+    "title": "The Next 100 Years"
+  },
+  {
+    "url": "https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530/",
+    "review": "",
+    "quote": "It is forgetting, not remembering, that is the essence of what makes us human. To make sense of the world, we must filter it. \"To think,\" Borges writes, \"is to forget\".",
+    "rating": null,
+    "priority": null,
+    "title": "Moonwalking with Einstein"
+  },
+  {
+    "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/",
+    "review": "",
+    "quote": "If you care about being thought credible and intelligent, do not use complex language where simpler language will do.",
+    "rating": 5,
+    "priority": null,
+    "title": "Thinking Fast and Slow"
+  },
+  {
+    "url": "https://www.amazon.com/Siddhartha-Novel-Hermann-Hesse/dp/0553208845",
+    "review": "",
+    "quote": "Wisdom cannot be imparted. Wisdom that a wise man attempts to impart always sounds like foolishness to someone else ... Knowledge can be communicated, but not wisdom. One can find it, live it, do wonders through it, but one cannot communicate and teach it",
+    "rating": null,
+    "priority": null,
+    "title": "Siddhartha"
+  },
+  {
+    "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/",
+    "review": "",
+    "quote": "Everyone shines, given the right lighting.",
+    "rating": null,
+    "priority": null,
+    "title": "Quiet"
+  },
+  {
+    "url": "https://www.amazon.com/Things-They-Dont-About-Capitalism/dp/1608193381/",
+    "review": "",
+    "quote": "The free market doesn't exist. Every market has some rules and boundaries that restrict the freedom of choice. A market looks free only because we so unconditionally accept its underlying restrictions that we fail to see them. How 'free' a market is cannot be objectively defined. It is a political definition.",
+    "rating": 4,
+    "priority": null,
+    "title": "23 Things They Don't Tell You About Capitalism"
+  },
+  {
+    "url": "https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/",
+    "review": "",
+    "quote": "Often we don’t realize that our attitude toward something has been influenced by the number of times we have been exposed to it in the past.",
+    "rating": null,
+    "priority": null,
+    "title": "Influence"
+  },
+  {
+    "url": "https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557/",
+    "review": "",
+    "quote": "There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion.",
+    "rating": 5,
+    "priority": 10,
+    "title": "Thinking in Systems"
+  },
+  {
+    "url": "https://www.amazon.com/Confessions-Economic-Hit-John-Perkins/dp/0452287081/",
+    "review": "",
+    "quote": "The choices we make within the boundaries of the twists of fate determines who we are.",
+    "rating": null,
+    "priority": null,
+    "title": "Confessions of an Economic Hitman"
+  },
+  {
+    "url": "https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1119145678/",
+    "review": "",
+    "quote": "An economist is an expert who will know tomorrow why the things he predicted yesterday didn’t happen. —Earl Wilson",
+    "rating": null,
+    "priority": null,
+    "title": "Predictive Analytics"
+  },
+  {
+    "url": "https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554/",
+    "review": "",
+    "quote": "No art, however minor, demands less than total dedication if you want to excel in it.",
+    "rating": null,
+    "priority": null,
+    "title": "Hackers & Painters"
+  },
+  {
+    "url": "https://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/0195374614/",
+    "review": "",
+    "quote": "The easiest way for us to gain happiness is to learn how to want the things we already have.",
+    "rating": 4,
+    "priority": 10,
+    "title": "A Guide to the Good Life"
+  },
+  {
+    "url": "https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000/",
+    "review": "",
+    "quote": "One essential characteristic of modern life is that we all depend on systems—on assemblages of people or technologies or both—and among our most profound difficulties is making them work.",
+    "rating": null,
+    "priority": null,
+    "title": "The Checklist Manifesto"
+  },
+  {
+    "url": "https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/",
+    "review": "",
+    "quote": "Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better.",
+    "rating": 5,
+    "priority": 10,
+    "title": "Antifragile"
+  },
+  {
+    "url": "https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591843529/",
+    "review": "",
+    "quote": "Every time your customers purchase from you, they’re deciding that they value what you have to offer more than they value anything else their money could buy at that moment.",
+    "rating": null,
+    "priority": 10,
+    "title": "Personal MBA"
+  },
+  {
+    "url": "https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X/",
+    "review": "",
+    "quote": "The Scrum Master, the person in charge of running the process, asks each team member three questions: 1. What did you do yesterday to help the team finish the Sprint? 2. What will you do today to help the team finish the Sprint? 3. What obstacles are getting in the team’s way? That’s it. That’s the whole meeting",
+    "rating": null,
+    "priority": null,
+    "title": "Scrum"
+  },
+  {
+    "url": "https://www.amazon.com/So-Youve-Been-Publicly-Shamed/dp/1594634017/",
+    "review": "",
+    "quote": "There is nothing I dislike more in the world than people who care more about ideology than they do about people.",
+    "rating": null,
+    "priority": null,
+    "title": "So You've Been Publicly Shamed"
+  },
+  {
+    "url": "https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/",
+    "review": "",
+    "quote": "The gap between a dumb and a clever person may appear large from an anthropocentric perspective, yet in a less parochial view the two have nearly indistinguishable minds.",
+    "rating": null,
+    "priority": null,
+    "title": "Superintelligence"
+  },
+  {
+    "url": "https://www.amazon.com/What-Should-Worried-About-Scientists/dp/006229623X/",
+    "review": "",
+    "quote": "Happy brains are all alike; every unhappy brain is unhappy in its own way.",
+    "rating": 3,
+    "priority": null,
+    "title": "What Should We Be Worried About"
+  },
+  {
+    "url": "https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087/",
+    "review": "",
+    "quote": "The signal is the truth. The noise is what distracts us from the truth.",
+    "rating": 4,
+    "priority": null,
+    "title": "The Signal and the Noise"
+  },
+  {
+    "url": "https://www.amazon.com/Berkshire-Hathaway-Letters-Shareholders-Buffett/dp/0615975070/",
+    "review": "",
+    "quote": "Sometimes your associates will say “Everybody else is doing it.” This rationale is almost always a bad one if it is the main justification for a business action. It is totally unacceptable when evaluating a moral decision. Whenever somebody offers that phrase as a rationale, in effect they are saying that they can’t come up with a good reason.",
+    "rating": 3,
+    "priority": null,
+    "title": "50 Berkshire Hathaway Letters to Shareholders 1965-2014"
+  },
+  {
+    "url": "https://www.amazon.com/Dust-This-Planet-Horror-Philosophy/dp/184694676X/",
+    "review": "",
+    "quote": "The question that runs through these disputatio is the following: What if “horror” has less to do with a fear of death, and more to do with the dread of life?",
+    "rating": null,
+    "priority": null,
+    "title": "In the Dust of This Planet"
+  },
+  {
+    "url": "https://www.amazon.com/What-If-Scientific-Hypothetical-Questions/dp/0544272994/",
+    "review": "",
+    "quote": "But I’ve never seen the Icarus story as a lesson about the limitations of humans. I see it as a lesson about the limitations of wax as an adhesive.",
+    "rating": 4,
+    "priority": null,
+    "title": "What If?"
+  },
+  {
+    "url": "https://www.amazon.com/Dataclysm-Identity-What-Online-Offline-Selves/dp/0385347391/",
+    "review": "",
+    "quote": "Tonight, some thirty thousand couples will have their first date because of OkCupid. Roughly three thousand of them will end up together long-term. Two hundred of those will get married, and many of them, of course, will have kids. There are children alive and pouting today, grouchy little humans refusing to put their shoes on right now, who would never have existed but for the whims of our HTML.",
+    "rating": null,
+    "priority": null,
+    "title": "Dataclysm"
+  },
+  {
+    "url": "https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/",
+    "review": "",
+    "quote": "No one owes you a great career, it argues; you need to earn it—and the process won’t be easy.",
+    "rating": null,
+    "priority": null,
+    "title": "So Good They Can't Ignore You"
+  },
+  {
+    "url": "https://www.amazon.com/Power-Habit-What-Life-Business/dp/1400069289/",
+    "review": "",
+    "quote": "Typically, people who exercise, start eating better and becoming more productive at work. They smoke less and show more patience with colleagues and family. They use their credit cards less frequently and say they feel less stressed. Exercise is a keystone habit that triggers widespread change",
+    "rating": null,
+    "priority": null,
+    "title": "The Power of Habit"
+  },
+  {
+    "url": "https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/",
+    "review": "",
+    "quote": "Information is useless if it is not applied to something important or if you will forget it before you have a chance to apply it.",
+    "rating": null,
+    "priority": null,
+    "title": "The 4-Hour Workweek"
+  },
+  {
+    "url": "https://www.amazon.com/Industries-Future-Alec-Ross/dp/1476753660/",
+    "review": "",
+    "quote": "Computer language is just another language with its own grammar; it just happens to be much more logical than French.",
+    "rating": null,
+    "priority": null,
+    "title": "The Industries of the Future"
+  },
+  {
+    "url": "https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345/",
+    "review": "",
+    "quote": "People are usually afraid of change because they fear the unknown. But the single greatest constant of history is that everything changes.",
+    "rating": null,
+    "priority": null,
+    "title": "Homo Deus"
+  },
+  {
+    "url": "https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718/",
+    "review": "",
+    "quote": "For superforecasters, beliefs are hypotheses to be tested, not treasures to be guarded.",
+    "rating": null,
+    "priority": null,
+    "title": "Superforecasting"
+  },
+  {
+    "url": "https://www.amazon.com/Flashpoints-Emerging-Crisis-George-Friedman/dp/0307951138/",
+    "review": "",
+    "quote": "The Enlightenment sought to rid the world of myths, but the nation could not justify itself without them.",
+    "rating": null,
+    "priority": null,
+    "title": "Flashpoints"
+  },
+  {
+    "url": "https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/",
+    "review": "",
+    "quote": "“Life is struggle.” I believe that within that quote lies the most important lesson in entrepreneurship: Embrace the struggle.",
+    "rating": null,
+    "priority": null,
+    "title": "The Hard Thing About Hard Things"
+  },
+  {
+    "url": "https://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0143110373/",
+    "review": "",
+    "quote": "We are morphing so fast that our ability to invent new things outpaces the rate we can civilize them.",
+    "rating": null,
+    "priority": null,
+    "title": "The Inevitable"
+  },
+  {
+    "url": "https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961/",
+    "review": "",
+    "quote": "Never let a good crisis go to waste. It’s the universe challenging you to learn something new and rise to the next level of your potential.",
+    "rating": 4,
+    "priority": null,
+    "title": "Tribe of Mentors"
+  },
+  {
+    "url": "https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/",
+    "review": "",
+    "quote": "Losers have goals. Winners have systems.",
+    "rating": 4,
+    "priority": null,
+    "title": "Tools of Titans"
+  },
+  {
+    "url": "https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/0071614133/",
+    "review": "",
+    "quote": "The whole secret to winning big in the stock market is not to be right all the time, but to lose the least amount possible when you’re wrong.",
+    "rating": null,
+    "priority": 10,
+    "title": "How to Make Money in Stocks: A Winning System in Good Times and Bad, Fourth Edition"
+  },
+  {
+    "url": "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/",
+    "review": "",
+    "quote": "We did not domesticate wheat. It domesticated us.",
+    "rating": null,
+    "priority": null,
+    "title": "Sapiens"
+  },
+  {
+    "url": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/",
+    "review": "",
+    "quote": "What we choose to focus on and what we choose to ignore—plays in defining the quality of our life.",
+    "rating": null,
+    "priority": 10,
+    "title": "Deep Work"
+  },
+  {
+    "url": "https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465094279/",
+    "review": "",
+    "quote": "God created not species but the algorithm for creating species.",
+    "rating": null,
+    "priority": null,
+    "title": "The Master Algorithm"
+  },
+  {
+    "url": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/",
+    "review": "",
+    "quote": "Who you are is defined by what you’re willing to struggle for.",
+    "rating": 4,
+    "priority": 10,
+    "title": "The Subtle Art of Not Giving a F*ck"
+  },
+  {
+    "url": "https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012/",
+    "review": "",
+    "quote": "You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged.",
+    "rating": null,
+    "priority": null,
+    "title": "Creativity, Inc."
+  },
+  {
+    "url": "https://www.amazon.com/Three-Body-Problem-Remembrance-Earths-Past/dp/0765377063/",
+    "review": "",
+    "quote": "To effectively contain a civilization’s development and disarm it across such a long span of time, there is only one way: kill its science.",
+    "rating": 4,
+    "priority": null,
+    "title": "The Three-Body Problem"
+  },
+  {
+    "url": "https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/076530418X/",
+    "review": "",
+    "quote": "Despite knowing the journey and where it leads, I embrace it and welcome every moment.",
+    "rating": null,
+    "priority": null,
+    "title": "Stories of Your Life and Others"
+  },
+  {
+    "url": "https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/",
+    "review": "",
+    "quote": "You can only find out what you actually believe (rather than what you think you believe) by watching how you act. You simply don’t know what you believe, before that. You are too complex to understand yourself.",
+    "rating": 4,
+    "priority": null,
+    "title": "12 Rules for Life"
+  },
+  {
+    "url": "https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273/",
+    "review": "",
+    "quote": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
+    "rating": null,
+    "priority": 10,
+    "title": "Man's Search for Meaning"
+  },
+  {
+    "url": "https://www.amazon.com/Ancillary-Justice-Imperial-Radch-Leckie/dp/031624662X/",
+    "review": "",
+    "quote": "If you’re going to make a desperate, hopeless act of defiance you should make it a good one.",
+    "rating": 4,
+    "priority": null,
+    "title": "Ancillary Justice"
+  },
+  {
+    "url": "https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/0425284646/",
+    "review": "",
+    "quote": "The curse of modernity is that we are increasingly populated by a class of people who are better at explaining than understanding, or better at explaining than doing.",
+    "rating": null,
+    "priority": null,
+    "title": "Skin in the Game"
+  },
+  {
+    "url": "https://www.amazon.com/Gods-Debris-Experiment-Scott-Adams/dp/0740747878/",
+    "review": "",
+    "quote": "The human mind is a delusion generator, not a window to truth.",
+    "rating": null,
+    "priority": null,
+    "title": "God's Debris"
+  },
+  {
+    "url": "https://www.amazon.com/Mating-Captivity-Reconciling-Erotic-Domestic/dp/0060753633/",
+    "review": "",
+    "quote": "Love rests on two pillars: surrender and autonomy. Our need for togetherness exists alongside our need for separateness.",
+    "rating": null,
+    "priority": null,
+    "title": "Mating in Captivity"
+  },
+  {
+    "url": "https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512195/",
+    "review": "",
+    "quote": "In a world deluged by irrelevant information, clarity is power.",
+    "rating": 4,
+    "priority": null,
+    "title": "21 Lessons for the 21st Century"
+  },
+  {
+    "url": "https://www.amazon.com/Hour-Body-Uncommon-Incredible-Superhuman/dp/030746363X/",
+    "review": "",
+    "quote": "The decent method you follow is better than the perfect method you quit.",
+    "rating": null,
+    "priority": null,
+    "title": "The 4-Hour Body"
+  },
+  {
+    "url": "https://www.amazon.com/Conquest-Happiness-Bertrand-Russell/dp/087140673X/",
+    "review": "",
+    "quote": "One of the symptoms of an approaching nervous breakdown is the belief that one’s work is terribly important.",
+    "rating": null,
+    "priority": 10,
+    "title": "The Conquest of Happiness"
+  },
+  {
+    "url": "https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/",
+    "review": "Mindset is about two main kinds of Mindsets that people seem to have. A Fixed Mindset is where you believe that you are born with fixed abilities, and you either talented in something or not (hence flawed). How well that you fare with a skill is determined by your innate talents. You have limited or a fixed potential. Think of people saying that they are not good with math or art. They accept their current state of knowledge as their permanent state. In a Fixed Mindset, you shy away from challenges, and you identify with your success and failures. You are afraid of being vulnerable.\n\nA Growth Mindset is a belief that we have an unknowable potential. It is the belief that our abilities are not fixed and can be cultivated through effort. We have the potential to improve and change almost every aspect of our nature. What kind of mindset you have affects a lot of aspects of your life. In the Growth mindset, you welcome challenges and effort. It is not about the outcome but the process. You do not identify with your success or failure. \n\nTwo ideas stood out to me in this book. First of all, the book talks about the benefits of having a Growth Mindset but acknowledges that you can’t have that mindset in every aspect of your life. There will be areas in your life where you would be content to accept things as they are. After all, you can’t focus on improving everything. It is a trade-off. And that is OK as long as what you accept doesn’t affect the quality of your life.\n\nThe second idea follows the first one. You can have a Growth Mindset in one area of your life and have a Fixed Mindset in other areas without even realizing it. The Fixed Mindset is some sort of protection that we develop to protect us from being vulnerable, but it also prevents us from growing. The book shows you how to identify the manifestation of a Fixed Mindset and tools to fight it off.",
+    "quote": "Why waste time proving over and over how great you are, when you could be getting better?",
+    "rating": null,
+    "priority": 12,
+    "title": "Mindset"
+  },
+  {
+    "url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/",
+    "review": "",
+    "quote": "Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity.",
+    "rating": 4,
+    "priority": null,
+    "title": "Atomic Habits"
+  },
+  {
+    "url": "https://www.amazon.com/Models-Attract-Women-Through-Honesty/dp/1463750358/",
+    "review": "",
+    "quote": "Rejection exists for a reason — it’s a means to keep people apart who are not good for each other.",
+    "rating": null,
+    "priority": null,
+    "title": "Models"
+  },
+  {
+    "url": "https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/1400067936/",
+    "review": "",
+    "quote": "A mistake is not something to be determined after the fact, but in light of the information available until that point.",
+    "rating": null,
+    "priority": 10,
+    "title": "Fooled by Randomness"
+  },
+  {
+    "url": "https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808",
+    "review": "I have been trying to practice meditation for a while before reading Power of Now. This book made me understand and appreciate what meditation tries to achieve. The author tends to get a bit unscientific at times, but it is so well-written that I was not bothered by it. The basic premise is that you are not your mind. You have an awareness that observes your mind, and the strive should be to identify with the Awareness that observes and not with your mind that chatters. \"The Power of Now\" would be my recommended book for anyone interested in meditation.",
+    "quote": "All negativity is caused by an accumulation of psychological time and denial of the present. Unease, anxiety, tension, stress, worry - all forms of fear - are caused by too much future, and not enough presence. Guilt, regret, resentment, grievances, sadness, bitterness, and all forms of nonforgiveness are caused by too much past, and not enough presence.",
+    "rating": 5,
+    "priority": 10,
+    "title": "The Power of Now"
+  },
+  {
+    "url": "https://www.amazon.com/Art-Loving-Erich-Fromm/dp/0061129739/",
+    "review": "Art of Loving is a thorough exploration of what love is and isn't. The central premise is that love is not something that you miraculously fall into but something that needs to be practiced and cultivated. Love is a form of art, so it requires a certain dedication to itself. It not only explores romantic love but also other kinds of love such as brotherly love or motherly love. The book feels a bit too academic at times, but it was still a worthy exploration of a subject that is so dear to our lives.",
+    "quote": "Love is a decision, it is a judgment, it is a promise. If love were only a feeling, there would be no basis for the promise to love each other forever. A feeling comes and it may go. How can I judge that it will stay forever, when my act does not involve judgment and decision.",
+    "rating": 4,
+    "priority": 10,
+    "title": "The Art of Loving"
+  },
+  {
+    "url": "https://www.amazon.com/10-Happier-Revised-Self-Help-Works/dp/0062917609/",
+    "review": "10% Happier is the story of how the journalist Dan Harris got acquainted with meditation as an outsider and a skeptic. This book can be a good starting point if you are curious about the practice of meditation but feel distanced by the mysticism that surrounds it. He explains how he got into meditation in a very accessible and relatable manner. It is not a life-changing book by any means but can be a light and entertaining read to get your feet wet with the subject.",
+    "quote": "There’s no point in being unhappy about things you can’t change, and no point being unhappy about things you can.",
+    "rating": 3,
+    "priority": null,
+    "title": "10% Happier"
+  },
+  {
+    "url": "https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1501197274",
+    "review": "\"The Courage to be Disliked\" is one of the best books I have read in a while. It challenges some of your core assumptions (like there is no trauma or that the interpersonal relationships are the root of all problems) and provides you with a framework to help you structure your life. It shows a lot of healthy ways to think about the way we approach interpersonal relationships.",
+    "quote": "No experience is in itself a cause of our success or failure. We do not suffer from the shock of our experiences—the so-called trauma—but instead we make out of them whatever suits our purposes. We are not determined by our experiences, but the meaning we give them is self-determining.",
+    "rating": 5,
+    "priority": 14,
+    "title": "The Courage to be Disliked"
+  },
+  {
+    "url": "https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201",
+    "review": "Philosophy of Software Design asserts complexity to be the biggest obstacle in software development and talks about managing complexity at a higher level. It is similar to books like \"Code Complete\" or \"Clean Code\" but it feels less tactical and more strategical in comparison. I thoroughly enjoyed this book, and it helped me increase my code quality.",
+    "quote": "All programming requires is a creative mind and the ability to organize your thoughts. If you can visualize a system, you can probably implement it in a computer program.",
+    "rating": 5,
+    "priority": 15,
+    "title": "A Philosophy of Software Design"
+  },
+  {
+    "url": "https://www.amazon.com/Love-Languages-Secret-that-Lasts/dp/080241270X",
+    "review": "According to this book, there are five different ways that people choose to express their affection towards each other (Physical Touch, Quality Time, Words of Affirmation, Acts of Service, Gift Receiving). You might not feel loved or cared for in a relationship if you and your partner have different languages of affection. This is equivalent to people speaking of the same things but not understanding each other due to a language barrier. Being aware of these differences can help you learn the love language of your partner. This book provides a useful tactical model for thinking about relationships, but I wouldn't call it an essential read.",
+    "quote": "Our most basic emotional need is not to fall in love but to be genuinely loved by another, to know a love that grows out of reason and choice, not instinct. I need to be loved by someone who chooses to love me, who sees in me something worth loving. That kind of love requires effort and discipline. It is the choice to expend energy in an effort to benefit the other person, knowing that if his or her life is enriched by your effort, you too will find a sense of satisfaction—the satisfaction of having genuinely.",
+    "rating": 3,
+    "priority": 8,
+    "title": "The 5 Love Languages"
+  },
+  {
+    "url": "https://www.amazon.com/Universe-Teeming-Aliens-WHERE-EVERYBODY/dp/1441930299/",
+    "review": "This is a great book about the possibility of alien life in the universe. It is incredibly imaginative, educative, and entertaining to read. It first explains what the Fermi Paradox is and then offers 50 possible solutions to the paradox. Every solution has something to teach you on subjects like biology, astrophysics, or probability theory. This is a book that is teeming with knowledge, imagination, and inspiration. At the end of the book, the author offers a convincing solution to the Fermi Paradox.",
+    "quote": "One of the deep mysteries of the origin of life is the almost indecent haste with which it arose on Earth.",
+    "rating": 5,
+    "priority": null,
+    "title": "If the Universe Is Teeming with Aliens ... WHERE IS EVERYBODY?"
+  },
+  {
+    "url": "https://www.amazon.com/Exhalation-Ted-Chiang/dp/1101972084/",
+    "review": "Exhalation is a compilation of sci-fi short stories from Ted Chiang. Don't let the length of his stories to discourage you. There is so much emotion, imagination, and intelligence packed in each of his stories. I could read a full-length book or watch a movie based on the stories that he skillfully constructs. There are few stories in this book that likely won't appeal to you at all. However, his better stories are beyond amazing and make it worth all the effort. I had so many favorites in this book, but \"Anxiety is Dizziness of Freedom\" might be my favorite short story of all time. It constructs a world where the many-worlds interpretation of quantum physics is real, and there is a device available that allows us to communicate with different branches from the time of the split. It is such a great story that is so rich in detail, emotions, and imagination.",
+    "quote": "Every decision you make contributes to your character and shapes the kind of person you are.",
+    "rating": 5,
+    "priority": null,
+    "title": "Exhalation"
+  },
+  {
+    "url": "https://www.amazon.com/Awareness-Opportunities-Reality-Anthony-Mello/dp/0385249373/",
+    "review": "",
+    "quote": "We see people and things not as they are, but as we are.",
+    "rating": 4,
+    "priority": 10,
+    "title": "Awareness: The Perils and Opportunities of Reality"
+  },
+  {
+    "url": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/",
+    "review": "\"Clean Code\" is an easy-to-read introduction to some elements that make code clean. What clean code means is discussed in the book with opinions from several prominent software engineers. The book offers a lot of tactical tips for writing clean code. It is fairly easy to implement your learnings in your day to day work. It has some sections that can be irrelevant or hard to read if you are not familiar with the Java language. Some advice might also not seem relevant anymore since there is tooling in place that takes care of various aspects of the development process. But this is still a great book to read to improve your code quality and make it cleaner.",
+    "quote": "Clean code always looks like it was written by someone who cares.",
+    "rating": 4,
+    "priority": 10,
+    "title": "Clean Code"
+  }
+]
